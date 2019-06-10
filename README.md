@@ -1,6 +1,7 @@
-# HOOQ Take Home Test
+# Movie Detail Search
 
-This task is dedicated for HOOQ Take Home Test Internship selection
+#API
+- Using themoviedb API
 
 # How to install ? 
 ```
