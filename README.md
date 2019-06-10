@@ -1,6 +1,6 @@
 # Movie Detail Search
 
-#API
+# API
 - Using themoviedb API
 
 # How to install ? 
